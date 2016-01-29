@@ -80,7 +80,7 @@ now we clone it into your computer to work fixing Errors or Bugs!
 From a Command Line Terminal, execute the following command to clone the repo on your GitHub account:
 
    ```
-   git clone https://github.com/USER/python-course.git
+   git clone https://github.com/USER/python-course-USER.git
    ``` 
    *Note that you need to replace 'USER' with your GitHub account username.*
 
